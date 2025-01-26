@@ -31,6 +31,7 @@ export default defineConfig({
         items: [
           { text: 'Installing Shoko Server', link: '/getting-started/installing-shoko-server' },
           { text: 'Running Shoko Server', link: '/getting-started/running-shoko-server' },
+          { text: 'Updating Shoko Server', link: '/getting-started/updating-shoko-server' },,
           { text: 'Available Programs & Plugins', link: '/getting-started/available-programs-plugins' },
         ],
       },
